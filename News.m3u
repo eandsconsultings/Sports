@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FoxNewsInternational.us" tvg-name="Fox News International" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoxNewsInternational.us.png" group-title="News",Fox News International
+http://103.253.74.210:7070/stream/124/index.m3u8
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HLN.us.png" group-title="News",HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8

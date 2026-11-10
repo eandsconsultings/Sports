@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBSV231.us" tvg-name="KBSV 23.1" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/KBSV231.us.png" group-title="General",KBSV 23.1
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/TelemundoInternacional.us.png" group-title="General",Telemundo Internacional
+http://190.60.46.156:8089/TELEMUNDO/index.m3u8

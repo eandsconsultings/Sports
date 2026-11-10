@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CNBC.us.png" group-title="Business",CNBC
+http://41.205.93.154/CNBC/index.m3u8

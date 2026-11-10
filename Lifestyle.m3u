@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MagnoliaNetwork.us.png" group-title="Lifestyle",Magnolia Network
+http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/OWN.us.png" group-title="Lifestyle",OWN
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/TLCLatinAmerica.us.png" group-title="Lifestyle",TLC Latin America
+http://38.134.250.110:8000/play/a00n/index.m3u8

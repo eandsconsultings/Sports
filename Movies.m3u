@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AMC.us.png" group-title="Movies",AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AMCLatinAmerica.us.png" group-title="Movies",AMC Latin America
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-name="American Horrors" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AmericanHorrors.us.png" group-title="Movies",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="AVIRewind.us" tvg-name="AVI Rewind" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AVIRewind.us.png" group-title="Movies",AVI Rewind
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="AXNAdria.us" tvg-name="AXN Adria" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNAdria.us.png" group-title="Movies",AXN Adria
+http://87.238.211.217:2209/stream/104/index.m3u8
+#EXTINF:-1 tvg-id="AXNBlack.us" tvg-name="AXN Black" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNBlack.us.png" group-title="Movies",AXN Black
+http://141.94.193.53/axn_black/index.m3u8
+#EXTINF:-1 tvg-id="AXNCrime.us" tvg-name="AXN Crime" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNCrime.us.png" group-title="Movies",AXN Crime
+http://88.212.7.14/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Cinemax.us.png" group-title="Movies",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="Cinemax Classics" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CinemaxClassics.us.png" group-title="Movies",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="Cinemax Hits" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CinemaxHits.us.png" group-title="Movies",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaUS.us" tvg-name="De Pelicula US" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DePeliculaUS.us.png" group-title="Movies",De Pelicula US
+http://138.121.15.230:9002/DEPELICULA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Mystery" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HallmarkMystery.us.png" group-title="Movies",Hallmark Mystery
+http://41.205.93.154/HALLMARK/index.m3u8
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/IFC.us.png" group-title="Movies",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="Lifetime Movies" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/LifetimeMovies.us.png" group-title="Movies",Lifetime Movies
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelLatinAmerica.us" tvg-name="Star Channel Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarChannelLatinAmerica.us.png" group-title="Movies",Star Channel Latin America
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="Starz Cinema" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzCinema.us.png" group-title="Movies",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/SYFY.us.png" group-title="Movies",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-id="UniversalCinema.us" tvg-name="Universal Cinema" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/UniversalCinema.us.png" group-title="Movies",Universal Cinema
+http://45.167.1.138:8000/play/a06m
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/USANetwork.us.png" group-title="Movies",USA Network
+http://190.197.41.183/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.us" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/WarnerChannel.us.png" group-title="Movies",Warner Channel
+http://38.134.250.110:8000/play/a029/index.m3u8

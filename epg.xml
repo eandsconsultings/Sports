@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="FreeTV US" generated="20261110061231 +0000">
+  <channel id="AE.us">
+    <display-name>A&amp;E</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AE.us.png"/>
+  </channel>
+  <channel id="AELatinAmerica.us">
+    <display-name>A&amp;E Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AELatinAmerica.us.png"/>
+  </channel>
+  <channel id="ACCNetwork.us">
+    <display-name>ACC Network</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ACCNetwork.us.png"/>
+  </channel>
+  <channel id="AdultSwimLatinAmerica.us">
+    <display-name>Adult Swim Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AdultSwimLatinAmerica.us.png"/>
+  </channel>
+  <channel id="AMC.us">
+    <display-name>AMC</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AMC.us.png"/>
+  </channel>
+  <channel id="AMCLatinAmerica.us">
+    <display-name>AMC Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AMCLatinAmerica.us.png"/>
+  </channel>
+  <channel id="AmericanHeroesChannel.us">
+    <display-name>American Heroes Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AmericanHeroesChannel.us.png"/>
+  </channel>
+  <channel id="AmericanHorrors.us">
+    <display-name>American Horrors</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AmericanHorrors.us.png"/>
+  </channel>
+  <channel id="AnimalPlanet.us">
+    <display-name>Animal Planet</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AnimalPlanet.us.png"/>
+  </channel>
+  <channel id="AnimalPlanetLatinAmerica.us">
+    <display-name>Animal Planet Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AnimalPlanetLatinAmerica.us.png"/>
+  </channel>
+  <channel id="AVIRewind.us">
+    <display-name>AVI Rewind</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AVIRewind.us.png"/>
+  </channel>
+  <channel id="AXNAdria.us">
+    <display-name>AXN Adria</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNAdria.us.png"/>
+  </channel>
+  <channel id="AXNBlack.us">
+    <display-name>AXN Black</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNBlack.us.png"/>
+  </channel>
+  <channel id="AXNCrime.us">
+    <display-name>AXN Crime</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNCrime.us.png"/>
+  </channel>
+  <channel id="AXNWhite.us">
+    <display-name>AXN White</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/AXNWhite.us.png"/>
+  </channel>
+  <channel id="BBCAmerica.us">
+    <display-name>BBC America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/BBCAmerica.us.png"/>
+  </channel>
+  <channel id="Boomerang.us">
+    <display-name>Boomerang</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Boomerang.us.png"/>
+  </channel>
+  <channel id="CanalInfantil.us">
+    <display-name>Canal Infantil</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CanalInfantil.us.png"/>
+  </channel>
+  <channel id="CartoonitoLatinAmerica.us">
+    <display-name>Cartoonito Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CartoonitoLatinAmerica.us.png"/>
+  </channel>
+  <channel id="Cinemax.us">
+    <display-name>Cinemax</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Cinemax.us.png"/>
+  </channel>
+  <channel id="CinemaxClassics.us">
+    <display-name>Cinemax Classics</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CinemaxClassics.us.png"/>
+  </channel>
+  <channel id="CinemaxHits.us">
+    <display-name>Cinemax Hits</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CinemaxHits.us.png"/>
+  </channel>
+  <channel id="CMT.us">
+    <display-name>CMT</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CMT.us.png"/>
+  </channel>
+  <channel id="CNBC.us">
+    <display-name>CNBC</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CNBC.us.png"/>
+  </channel>
+  <channel id="CookingChannel.us">
+    <display-name>Cooking Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CookingChannel.us.png"/>
+  </channel>
+  <channel id="CrimePlusInvestigation.us">
+    <display-name>Crime + Investigation</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CrimePlusInvestigation.us.png"/>
+  </channel>
+  <channel id="DePeliculaUS.us">
+    <display-name>De Pelicula US</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DePeliculaUS.us.png"/>
+  </channel>
+  <channel id="DestinationAmerica.us">
+    <display-name>Destination America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DestinationAmerica.us.png"/>
+  </channel>
+  <channel id="DiscoveryChannel.us">
+    <display-name>Discovery Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryChannel.us.png"/>
+  </channel>
+  <channel id="DiscoveryChannelLatinAmerica.us">
+    <display-name>Discovery Channel Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryChannelLatinAmerica.us.png"/>
+  </channel>
+  <channel id="DiscoveryKidsLatinAmerica.us">
+    <display-name>Discovery Kids Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryKidsLatinAmerica.us.png"/>
+  </channel>
+  <channel id="DiscoveryScienceLatinAmerica.us">
+    <display-name>Discovery Science Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryScienceLatinAmerica.us.png"/>
+  </channel>
+  <channel id="DiscoveryTurbo.us">
+    <display-name>Discovery Turbo</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryTurbo.us.png"/>
+  </channel>
+  <channel id="DiscoveryTurboLatinAmerica.us">
+    <display-name>Discovery Turbo Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryTurboLatinAmerica.us.png"/>
+  </channel>
+  <channel id="DiscoveryWorld.us">
+    <display-name>Discovery World</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryWorld.us.png"/>
+  </channel>
+  <channel id="DisneyChannel.us">
+    <display-name>Disney Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DisneyChannel.us.png"/>
+  </channel>
+  <channel id="DisneyXD.us">
+    <display-name>Disney XD</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DisneyXD.us.png"/>
+  </channel>
+  <channel id="DSports.us">
+    <display-name>DSports</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DSports.us.png"/>
+  </channel>
+  <channel id="DSports2.us">
+    <display-name>DSports 2</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DSports2.us.png"/>
+  </channel>
+  <channel id="E.us">
+    <display-name>E!</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/E.us.png"/>
+  </channel>
+  <channel id="ELatinAmerica.us">
+    <display-name>E! Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ELatinAmerica.us.png"/>
+  </channel>
+  <channel id="ElSembradorNuevaEvangelizacionESNE.us">
+    <display-name>El Sembrador Nueva Evangelizacion ESNE</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ElSembradorNuevaEvangelizacionESNE.us.png"/>
+  </channel>
+  <channel id="ESNETV.us">
+    <display-name>ESNE TV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESNETV.us.png"/>
+  </channel>
+  <channel id="ESPN.us">
+    <display-name>ESPN</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPN.us.png"/>
+  </channel>
+  <channel id="ESPN2.us">
+    <display-name>ESPN 2</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPN2.us.png"/>
+  </channel>
+  <channel id="ESPNDeportes.us">
+    <display-name>ESPN Deportes</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPNDeportes.us.png"/>
+  </channel>
+  <channel id="ESPNU.us">
+    <display-name>ESPNU</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPNU.us.png"/>
+  </channel>
+  <channel id="FierroaFondoTV.us">
+    <display-name>Fierro a Fondo TV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FierroaFondoTV.us.png"/>
+  </channel>
+  <channel id="FMHKids.us">
+    <display-name>FMH Kids</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FMHKids.us.png"/>
+  </channel>
+  <channel id="FoodNetwork.us">
+    <display-name>Food Network</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoodNetwork.us.png"/>
+  </channel>
+  <channel id="FoodNetworkLatinAmerica.us">
+    <display-name>Food Network Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoodNetworkLatinAmerica.us.png"/>
+  </channel>
+  <channel id="FoxNewsInternational.us">
+    <display-name>Fox News International</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoxNewsInternational.us.png"/>
+  </channel>
+  <channel id="Fuse.us">
+    <display-name>Fuse</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Fuse.us.png"/>
+  </channel>
+  <channel id="GolfChannelLatinAmerica.us">
+    <display-name>Golf Channel Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/GolfChannelLatinAmerica.us.png"/>
+  </channel>
+  <channel id="HallmarkMystery.us">
+    <display-name>Hallmark Mystery</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HallmarkMystery.us.png"/>
+  </channel>
+  <channel id="HBOPopLatinAmerica.us">
+    <display-name>HBO Pop Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HBOPopLatinAmerica.us.png"/>
+  </channel>
+  <channel id="History.us">
+    <display-name>History</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/History.us.png"/>
+  </channel>
+  <channel id="History2LatinAmerica.us">
+    <display-name>History 2 Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/History2LatinAmerica.us.png"/>
+  </channel>
+  <channel id="HistoryLatinAmerica.us">
+    <display-name>History Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HistoryLatinAmerica.us.png"/>
+  </channel>
+  <channel id="HLN.us">
+    <display-name>HLN</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HLN.us.png"/>
+  </channel>
+  <channel id="HolaTVLatinAmerica.us">
+    <display-name>Hola! TV Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HolaTVLatinAmerica.us.png"/>
+  </channel>
+  <channel id="Hope4LifeTV.us">
+    <display-name>Hope4Life TV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Hope4LifeTV.us.png"/>
+  </channel>
+  <channel id="IFC.us">
+    <display-name>IFC</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/IFC.us.png"/>
+  </channel>
+  <channel id="InvestigationDiscovery.us">
+    <display-name>Investigation Discovery</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/InvestigationDiscovery.us.png"/>
+  </channel>
+  <channel id="InvestigationDiscoveryLatinAmerica.us">
+    <display-name>Investigation Discovery Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/InvestigationDiscoveryLatinAmerica.us.png"/>
+  </channel>
+  <channel id="JusHindi.us">
+    <display-name>Jus Hindi</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusHindi.us.png"/>
+  </channel>
+  <channel id="JusOne.us">
+    <display-name>Jus One</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusOne.us.png"/>
+  </channel>
+  <channel id="JusPunjabi.us">
+    <display-name>Jus Punjabi</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusPunjabi.us.png"/>
+  </channel>
+  <channel id="KBSV231.us">
+    <display-name>KBSV 23.1</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/KBSV231.us.png"/>
+  </channel>
+  <channel id="KidOO.us">
+    <display-name>KidOO</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/KidOO.us.png"/>
+  </channel>
+  <channel id="LifetimeMovies.us">
+    <display-name>Lifetime Movies</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/LifetimeMovies.us.png"/>
+  </channel>
+  <channel id="MagnoliaNetwork.us">
+    <display-name>Magnolia Network</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MagnoliaNetwork.us.png"/>
+  </channel>
+  <channel id="MiMusicaHits.us">
+    <display-name>Mi Musica Hits</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MiMusicaHits.us.png"/>
+  </channel>
+  <channel id="MiMusicaPopular.us">
+    <display-name>Mi Musica Popular</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MiMusicaPopular.us.png"/>
+  </channel>
+  <channel id="MiMusicaReggaeton.us">
+    <display-name>Mi Musica Reggaeton</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MiMusicaReggaeton.us.png"/>
+  </channel>
+  <channel id="MiMusicaRomantica.us">
+    <display-name>Mi Musica Romantica</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MiMusicaRomantica.us.png"/>
+  </channel>
+  <channel id="MiMusicaSalsa.us">
+    <display-name>Mi Musica Salsa</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MiMusicaSalsa.us.png"/>
+  </channel>
+  <channel id="MLBStrikeZone.us">
+    <display-name>MLB Strike Zone</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MLBStrikeZone.us.png"/>
+  </channel>
+  <channel id="MMATV.us">
+    <display-name>MMA TV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MMATV.us.png"/>
+  </channel>
+  <channel id="MSG.us">
+    <display-name>MSG</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MSG.us.png"/>
+  </channel>
+  <channel id="MTV.us">
+    <display-name>MTV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MTV.us.png"/>
+  </channel>
+  <channel id="MTVLive.us">
+    <display-name>MTV Live</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MTVLive.us.png"/>
+  </channel>
+  <channel id="MTV2.us">
+    <display-name>MTV2</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MTV2.us.png"/>
+  </channel>
+  <channel id="NationalGeographic.us">
+    <display-name>National Geographic</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/NationalGeographic.us.png"/>
+  </channel>
+  <channel id="NationalGeographicWild.us">
+    <display-name>National Geographic Wild</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/NationalGeographicWild.us.png"/>
+  </channel>
+  <channel id="NickJr.us">
+    <display-name>Nick Jr.</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/NickJr.us.png"/>
+  </channel>
+  <channel id="OWN.us">
+    <display-name>OWN</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/OWN.us.png"/>
+  </channel>
+  <channel id="ParamountNetwork.us">
+    <display-name>Paramount Network</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ParamountNetwork.us.png"/>
+  </channel>
+  <channel id="Reelz.us">
+    <display-name>Reelz</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Reelz.us.png"/>
+  </channel>
+  <channel id="ShowtimeFamilyZone.us">
+    <display-name>Showtime Family Zone</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ShowtimeFamilyZone.us.png"/>
+  </channel>
+  <channel id="StarChannelLatinAmerica.us">
+    <display-name>Star Channel Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarChannelLatinAmerica.us.png"/>
+  </channel>
+  <channel id="StarzCinema.us">
+    <display-name>Starz Cinema</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzCinema.us.png"/>
+  </channel>
+  <channel id="StarzComedy.us">
+    <display-name>Starz Comedy</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzComedy.us.png"/>
+  </channel>
+  <channel id="StarzKidsFamily.us">
+    <display-name>Starz Kids &amp; Family</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzKidsFamily.us.png"/>
+  </channel>
+  <channel id="SYFY.us">
+    <display-name>SYFY</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/SYFY.us.png"/>
+  </channel>
+  <channel id="TelemundoInternacional.us">
+    <display-name>Telemundo Internacional</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/TelemundoInternacional.us.png"/>
+  </channel>
+  <channel id="TLCLatinAmerica.us">
+    <display-name>TLC Latin America</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/TLCLatinAmerica.us.png"/>
+  </channel>
+  <channel id="UniversalCinema.us">
+    <display-name>Universal Cinema</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/UniversalCinema.us.png"/>
+  </channel>
+  <channel id="UnivisionTlnovelas.us">
+    <display-name>Univision Tlnovelas</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/UnivisionTlnovelas.us.png"/>
+  </channel>
+  <channel id="USANetwork.us">
+    <display-name>USA Network</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/USANetwork.us.png"/>
+  </channel>
+  <channel id="WarnerChannel.us">
+    <display-name>Warner Channel</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/WarnerChannel.us.png"/>
+  </channel>
+  <channel id="WeTV.us">
+    <display-name>We TV</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/WeTV.us.png"/>
+  </channel>
+  <channel id="Westerns4U.us">
+    <display-name>Westerns 4U</display-name>
+    <icon src="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Westerns4U.us.png"/>
+  </channel>
+</tv>

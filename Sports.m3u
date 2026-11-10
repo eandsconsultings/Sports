@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ACCNetwork.us.png" group-title="Sports",ACC Network
+http://23.239.31.26:8989/accnetwork/index.m3u8
+#EXTINF:-1 tvg-id="DSports.us" tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DSports.us.png" group-title="Sports",DSports
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="DSports2.us" tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DSports2.us.png" group-title="Sports",DSports 2
+http://187.102.208.209:8000/play/a0bq/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPN.us.png" group-title="Sports",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPN2.us.png" group-title="Sports",ESPN 2
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPNDeportes.us.png" group-title="Sports",ESPN Deportes
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESPNU.us.png" group-title="Sports",ESPNU
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us" tvg-name="Golf Channel Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/GolfChannelLatinAmerica.us.png" group-title="Sports",Golf Channel Latin America
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strike Zone" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MLBStrikeZone.us.png" group-title="Sports",MLB Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="MMATV.us" tvg-name="MMA TV" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MMATV.us.png" group-title="Sports",MMA TV
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/MSG.us.png" group-title="Sports",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8

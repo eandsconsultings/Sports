@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CookingChannel.us.png" group-title="Cooking",Cooking Channel
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoodNetwork.us.png" group-title="Cooking",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetworkLatinAmerica.us" tvg-name="Food Network Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FoodNetworkLatinAmerica.us.png" group-title="Cooking",Food Network Latin America
+http://168.196.127.137:6001/play/a09v/index.m3u8

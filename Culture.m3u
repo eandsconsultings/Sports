@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JusHindi.us" tvg-name="Jus Hindi" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusHindi.us.png" group-title="Culture",Jus Hindi
+http://103.154.3.101:5001/live/960.m3u8
+#EXTINF:-1 tvg-id="JusOne.us" tvg-name="Jus One" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusOne.us.png" group-title="Culture",Jus One
+http://103.154.3.101:5001/live/961.m3u8
+#EXTINF:-1 tvg-id="JusPunjabi.us" tvg-name="Jus Punjabi" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/JusPunjabi.us.png" group-title="Culture",Jus Punjabi
+http://103.154.3.101:5001/live/959.m3u8

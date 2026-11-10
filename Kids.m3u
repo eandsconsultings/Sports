@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Boomerang.us.png" group-title="Kids",Boomerang
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/CanalInfantil.us.png" group-title="Kids",Canal Infantil
+http://179.1.196.222:9000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us" tvg-name="Discovery Kids Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryKidsLatinAmerica.us.png" group-title="Kids",Discovery Kids Latin America
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DisneyChannel.us.png" group-title="Kids",Disney Channel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DisneyXD.us.png" group-title="Kids",Disney XD
+http://89.187.179.148:826/1368/gXwiagaXda/1672
+#EXTINF:-1 tvg-id="FMHKids.us" tvg-name="FMH Kids" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/FMHKids.us.png" group-title="Kids",FMH Kids
+http://38.87.224.19:2220/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/NickJr.us.png" group-title="Kids",Nick Jr.
+http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="StarzKidsFamily.us" tvg-name="Starz Kids & Family" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzKidsFamily.us.png" group-title="Kids",Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8

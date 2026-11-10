@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Westerns4U.us" tvg-name="Westerns 4U" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Westerns4U.us.png" group-title="Classic",Westerns 4U
+http://181.224.255.210:8001/play/a0rq/index.m3u8

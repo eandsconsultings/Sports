@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DestinationAmerica.us.png" group-title="Travel",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8

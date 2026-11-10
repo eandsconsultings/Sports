@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ParamountNetwork.us.png" group-title="Series",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision Tlnovelas" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/UnivisionTlnovelas.us.png" group-title="Series",Univision Tlnovelas
+http://45.6.4.35/TELENOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="We TV" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/WeTV.us.png" group-title="Series",We TV
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us" tvg-name="El Sembrador Nueva Evangelizacion ESNE" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ElSembradorNuevaEvangelizacionESNE.us.png" group-title="Religious",El Sembrador Nueva Evangelizacion ESNE
+http://190.61.90.17:40000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ESNETV.us.png" group-title="Religious",ESNE TV
+http://132.255.210.69:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="Hope4LifeTV.us" tvg-name="Hope4Life TV" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/Hope4LifeTV.us.png" group-title="Religious",Hope4Life TV
+http://144.217.14.88/hls/hope4life.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/HBOPopLatinAmerica.us.png" group-title="Comedy",HBO Pop Latin America
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/StarzComedy.us.png" group-title="Comedy",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8

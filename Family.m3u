@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-name="Showtime Family Zone" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/ShowtimeFamilyZone.us.png" group-title="Family",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8

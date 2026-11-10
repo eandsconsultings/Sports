@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="https://raw.githubusercontent.com/michaelthomas/freetv-us-repository/main/logos/DiscoveryScienceLatinAmerica.us.png" group-title="Science",Discovery Science Latin America
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
